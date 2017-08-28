@@ -40,4 +40,6 @@ Scorer program used is: new2-coref-scorer.py
 nltk and lxml package needs to be installed in order to run the program successfully, We have set up the
 Virtual environment needed to run the program. Let us know if any problem occurs during execution.
 
-Reference to some support codes (if needed) have been mentioned in respective program files. 
+Reference to some support codes (if needed) have been mentioned in respective program files.
+
+For details of our system : you can have a look at A^2-Poster.pdf 
